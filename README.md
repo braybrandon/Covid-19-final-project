@@ -33,4 +33,6 @@ gets the patients file by using their mrn number
 
 /api/gethospital/{id}
 gets the number of availalbe beds for the hospital using the hospitals id
+
+
 The program requires the user to use mongodb.
